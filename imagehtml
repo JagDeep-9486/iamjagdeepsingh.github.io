@@ -1,0 +1,11 @@
+<img src="images/profile.jpg" alt="Jagdeep Singh" width="200">
+<div class="container">
+    <img src="images/profile.jpg" alt="Jagdeep Singh" width="200">
+    <h2>Welcome to My Portfolio</h2>
+</div>
+body {
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-position: center;
+}
+<img src="https://example.com/image.jpg" alt="Wildlife Photography">
